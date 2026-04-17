@@ -34,13 +34,16 @@
     <img src="images/ADAPT_icon.png" alt="Logo" width="200" height="200">
   </a>
 
-  <h3 align="center">ADAPT: Benchmarking Commonsense Planning under Unspecified Affordance Constraints</h3>
+  <h1 align="center">ADAPT: Benchmarking Commonsense Planning under Unspecified Affordance Constraints</h1>
 </h3>
 
   <p align="center">
     A benchmark for evaluating whether embodied agents can reason about <b>implicit affordance constraints</b> and adapt to dynamic object states.
     <br />
-    <a href="https://arxiv.org/abs/2604.14902"><strong>Explore the docs »</strong></a>
+    🚧 <b>Code and dataset are currently under active organization.</b><br />
+    We will release the full implementation, benchmark, and evaluation pipeline <b>as soon as possible</b>.
+    <br /><br />
+    <a href="https://arxiv.org/abs/2604.14902"><strong>📄 Read Paper</strong></a>
     <br />
     &middot;
   </p>
