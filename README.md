@@ -52,7 +52,7 @@
 
 
 <!-- TABLE OF CONTENTS -->
-<details>
+<!-- <details>
   <summary>Table of Contents</summary>
   <ol>
     <li>
@@ -68,7 +68,7 @@
   </ol>
 </details>
 
-
+ -->
 
 <!-- ABOUT THE PROJECT -->
 ## 📌 About The Paper
@@ -109,7 +109,7 @@ Pei-An Chen (Charlotte)
 📧 charlottechen@cmlab.csie.ntu.edu.tw
 
 Project Link:
-https://charlotteannchen.github.io/ADAPT/
+⚙️ https://charlotteannchen.github.io/ADAPT/
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
