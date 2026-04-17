@@ -18,12 +18,12 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][contributors-url]
+<!-- [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![Unlicense License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+[![LinkedIn][linkedin-shield]][linkedin-url] -->
 
 
 
@@ -31,7 +31,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/ADAPT_icon.png" alt="Logo" width="80" height="80">
+    <img src="images/ADAPT_icon.png" alt="Logo" width="200" height="200">
   </a>
 
   <h3 align="center">ADAPT: Benchmarking Commonsense Planning under Unspecified Affordance Constraints</h3>
@@ -68,7 +68,7 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Paper
+## 📌 About The Paper
 
 DynAfford is a benchmark designed to evaluate whether embodied agents can handle **real-world commonsense scenarios** where:
 
@@ -82,7 +82,7 @@ Unlike prior benchmarks, DynAfford introduces:
 - 🔄 **Dynamic object state transitions**
 - 🎯 **Goal consistency under temporary infeasibility**
 
-## Key Contributions
+## 🚀 Key Contributions
 
 - **Benchmark**: A new evaluation suite for dynamic affordance reasoning
 - **ADAPT (Affordance-Aware Selection)**:
@@ -91,16 +91,16 @@ Unlike prior benchmarks, DynAfford introduces:
 - **MICL + LoRA**:
   - Multimodal in-context learning
   - Fine-tuned LLaVA for affordance detection
-
-## Installation
+<!-- 
+## ⚙️ Installation
 ```bash
 git clone https://github.com/your_username/ADAPT.git
 cd ADAPT
-```
+``` -->
 
 
 <!-- CONTACT -->
-## Contact
+## 📬Contact
 
 Pei-An Chen (Charlotte)
 📧 charlottechen@cmlab.csie.ntu.edu.tw
@@ -113,7 +113,7 @@ https://charlotteannchen.github.io/ADAPT/
 
 
 <!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
+## 🙏 Acknowledgments
 We gratefully acknowledge the foundational contributions of prior work and open-source resources that made this project possible.
 
 In particular, we thank the developers of the ALFRED benchmark and the AI2-THOR environment for providing essential platforms for embodied AI research. We also acknowledge the LLaVA project, whose codebase and models served as an important foundation for our affordance reasoning module.
@@ -122,7 +122,7 @@ Utilizing these resources implies agreement with their respective licenses. We d
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Citations
+## 📖 Citations
 If you use our work or our implementation in this repo or find them helpful, please consider giving a citation.
 ```bibtex
 @misc{chen2026adaptbenchmarkingcommonsenseplanning,
